@@ -1,0 +1,12 @@
+[*.cs]
+indent_style = space
+tab_width = 2
+csharp_new_line_before_open_brace = none
+
+csharp_prefer_braces = true
+insert_final_newline = true
+
+csharp_new_line_before_else = true
+csharp_new_line_before_finally = true
+
+csharp_space_after_comma = true
